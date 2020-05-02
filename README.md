@@ -60,14 +60,14 @@ The directory ```test_data``` corresponds to the acquired data used for the peer
 **FOLDER rtSUC_data (room-temperature surface RF coil):**
 - ```flask_n#_flipbackData_rtSUC.mat```: contains the registered T<sub>1</sub> map, the surface RF coil data and the volume RF coil data (RARE with flipback) of the ```flask_n#```:
    - n1: with low T<sub>1</sub> and 100% water 
-   - n2: with low T<sub>1</sub> and 50% water/50% d2O 
+   - n2: with low T<sub>1</sub> and 50% water/50% d<sub>2</sub>O 
    - n3:  with high T<sub>1</sub> and 100% water
-   - n4: with high T<sub>1</sub> and 50% water/50% d2O 
+   - n4: with high T<sub>1</sub> and 50% water/50% d<sub>2</sub>O  
 •	```flask_n#_NOflipbackData_rtSUC.mat```: contains the registered T<sub>1</sub> map, the surface RF coil data and the volume RF coil data (RARE without flipback) of the ```flask_n#```:
    - n1: with low T<sub>1</sub> and 100% water 
-   - n2: with low T<sub>1</sub> and 50% water/50% d2O 
+   - n2: with low T<sub>1</sub> and 50% water/50% d<sub>2</sub>O  
    - n3:  with high T<sub>1</sub> and 100% water
-   - n4: with high T<sub>1</sub> and 50% water/50% d2O 
+   - n4: with high T<sub>1</sub> and 50% water/50% d<sub>2</sub>O  
 •	```b1map_rtSUC.mat```: B<sub>1</sub> map of a uniform phantom
 
 **FOLDER rtSUC_dataAUX (room-temperature surface RF coil):**

@@ -105,7 +105,8 @@ The directory ```test_data``` corresponds to the acquired data used for the peer
 ## Reproducing my results
 ### Available results data 
 The directory ```results_folder``` corresponds to the resulting data shown in the peer-reviewed publication:
-> Ramos Delgado P, Kuehne A, Periquito J, et al. B1 Inhomogeneity Correction of RARE MRI with Transceive Surface Radiofrequency Probes. Magnetic Resonance in Medicine 2020; 00:1-20. https://doi.org/10.1002/MRM.28307
+
+> Ramos Delgado P, Kuehne A, Periquito J, et al. B<sub>1</sub> Inhomogeneity Correction of RARE MRI with Transceive Surface Radiofrequency Probes. Magnetic Resonance in Medicine 2020; 00:1-20. https://doi.org/10.1002/MRM.28307 
 
 **FOLDER RAREmodels:**
 - ```RAREmodel_flipback_allOrders.mat```: calculated RARE model with flipback with polynomial orders 1<sup>st</sup>-8<sup>th</sup> 
